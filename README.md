@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=Nz9SiF0QVKY
 
 CppCon 2016: Timur Doumler “Want fast C++? Know your hardware!"
 https://www.youtube.com/watch?v=BP6NxVxDQIs&t=1501s
+
+Faster than Rust and C++: the PERFECT hash table
+https://www.youtube.com/watch?v=DMQ_HcNSOAI
