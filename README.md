@@ -1,4 +1,4 @@
-### Interesting-Conference-Lectures (Actively updating as I watch)
+### Interesting-Conference-Lectures OR Youtube Videos (Actively updating as I watch)
 Although I barely code in C++ but I love watching low-level performance optimiziation videos. 
 
 Here are some awesome videos which you can learn more about optimiziation in programming:
@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=BP6NxVxDQIs&t=1501s
 
 Faster than Rust and C++: the PERFECT hash table
 https://www.youtube.com/watch?v=DMQ_HcNSOAI
+
+The Best Data Structure You’ve Never Heard of | Python Deques
+https://www.youtube.com/watch?v=25B66fOb0GA
